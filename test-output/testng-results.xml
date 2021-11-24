@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="75" started-at="2021-11-18T17:01:05Z" finished-at="2021-11-18T17:01:05Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="75" started-at="2021-11-18T17:01:05Z" finished-at="2021-11-18T17:01:05Z">
+      <class name="com.simple.testng.PriorityTest">
+        <test-method status="PASS" signature="grocery()[pri:-3, instance:com.simple.testng.PriorityTest@26be92ad]" name="grocery" duration-ms="14" started-at="2021-11-18T17:01:05Z" finished-at="2021-11-18T17:01:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- grocery -->
+        <test-method status="PASS" signature="car()[pri:-2, instance:com.simple.testng.PriorityTest@26be92ad]" name="car" duration-ms="4" started-at="2021-11-18T17:01:05Z" finished-at="2021-11-18T17:01:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- car -->
+        <test-method status="PASS" signature="shops()[pri:0, instance:com.simple.testng.PriorityTest@26be92ad]" name="shops" duration-ms="3" started-at="2021-11-18T17:01:05Z" finished-at="2021-11-18T17:01:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shops -->
+        <test-method status="PASS" signature="bike()[pri:3, instance:com.simple.testng.PriorityTest@26be92ad]" name="bike" duration-ms="2" started-at="2021-11-18T17:01:05Z" finished-at="2021-11-18T17:01:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- bike -->
+        <test-method status="PASS" signature="Airplanes()[pri:4, instance:com.simple.testng.PriorityTest@26be92ad]" name="Airplanes" duration-ms="1" started-at="2021-11-18T17:01:05Z" finished-at="2021-11-18T17:01:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Airplanes -->
+      </class> <!-- com.simple.testng.PriorityTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
